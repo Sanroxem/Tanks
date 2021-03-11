@@ -1,4 +1,4 @@
-# Tanks
+TANKS 
 Game for HR
 
 npm install
@@ -6,6 +6,7 @@ npm run dev
 use localhost provided in your browser
 
 To the reviewer:
+
 ---------------------------------------------
 Hey!
 At the beggining I'd like to say that while I know typescript, I never really used it in any project. At previous job we worked with pure JS, so I'm not sure how much stuff should or shouldnt have types etc. as a good practice. Those things are quickly learned once you start working in company that has some standards regarding that, so It should be of not too much issue for you at this point. Or if you don't use typescript at work ( I was not told which company I'm being recruited for so far ;) ) => no issue at all.
@@ -21,6 +22,7 @@ I left console log that displays hay HP after being shot for easier testing. Bul
 Hope you like it.
 
 Have a nice day! ;)
+
 ---------------------------------------------------------------------------------------
 
 Game Info:
@@ -46,6 +48,3 @@ Inputs:
 "space" => shoot from tank
 arrowKeys => turning and movement
 You can't do 2 different actions at the same time.
-=======
-"# Tanks"
-
