@@ -1,6 +1,10 @@
 # Tanks
 Game for HR
 
+npm install
+npm run dev
+use localhost provided in your browser
+
 To the reviewer:
 ---------------------------------------------
 Hey!
